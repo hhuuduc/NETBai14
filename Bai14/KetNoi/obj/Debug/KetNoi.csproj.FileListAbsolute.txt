@@ -1,0 +1,10 @@
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\Bai14\KetNoi\bin\Debug\KetNoi.exe.config
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\Bai14\KetNoi\bin\Debug\KetNoi.exe
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\Bai14\KetNoi\bin\Debug\KetNoi.pdb
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\Bai14\KetNoi\obj\Debug\KetNoi.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\Bai14\KetNoi\obj\Debug\KetNoi.FrmMain.resources
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\Bai14\KetNoi\obj\Debug\KetNoi.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\Bai14\KetNoi\obj\Debug\KetNoi.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\Bai14\KetNoi\obj\Debug\KetNoi.exe
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\Bai14\KetNoi\obj\Debug\KetNoi.pdb
+E:\LuuDuLieuSinhVien\2001207422_HuynhHuuDuc\Bai14\KetNoi\obj\Debug\KetNoi.FrmGV.resources
